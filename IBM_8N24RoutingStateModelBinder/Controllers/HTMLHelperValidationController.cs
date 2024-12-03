@@ -23,9 +23,6 @@ namespace IBM_8N24RoutingStateModelBinder.Controllers
 
             }
 
-
-
-
             return View();
         }
     }
